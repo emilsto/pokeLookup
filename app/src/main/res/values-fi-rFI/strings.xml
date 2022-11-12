@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="get_pokedata">Hae pokedata</string>
+    <string name="pokemon_name">pokemonin nimi...</string>
+    <string name="inspect_more_data">Tutki lisädataa</string>
+    <string name="height">pituus:</string>
+    <string name="weight">paino:</string>
+    <string name="return_to_main">Palaa päävalikkoon</string>
+    <string name="noinput_error">Syötä pokemonin nimi</string>
+    <string name="nosearch_error">Hae pokemonin tiedot ensin!</string>
+    <string name="nointernet_error">Ei internet yhteyttä</string>
+    <string name="poke_type">"Tyyppi: "</string>
+</resources>

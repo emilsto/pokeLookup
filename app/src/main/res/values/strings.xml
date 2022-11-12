@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">pokeLookup</string>
+    <string name="appNameTop" translatable="false">PokeLookup</string>
+    <string name="get_pokedata">get pokedata</string>
+    <string name="pokemon_name">pokemon name...</string>
+    <string name="inspect_more_data">Inspect more data</string>
+    <string name="height">height:</string>
+    <string name="weight">weight:</string>
+    <string name="return_to_main">Return to main</string>
+    <string name="noinput_error">Please enter a pokemon name</string>
+    <string name="nosearch_error">Please search for a pokemon first!</string>
+    <string name="nointernet_error">No internet connection</string>
+    <string name="poke_type">Type:</string>
+</resources>
